@@ -1,15 +1,6 @@
-2018-05-26 18:10:28.388 [http-nio-8080-exec-1] INFO  com.example.logtest.LogController - hello, /info
-2018-05-26 18:10:28.388 [http-nio-8080-exec-1] WARN  com.example.logtest.LogController - hello, /warn
-2018-05-26 18:10:28.388 [http-nio-8080-exec-1] ERROR com.example.logtest.LogController - hello, /error
-2018-05-26 18:10:55.574 [http-nio-8080-exec-1] INFO  com.example.logtest.LogController - hello, /info
-2018-05-26 18:10:55.574 [http-nio-8080-exec-1] WARN  com.example.logtest.LogController - hello, /warn
-2018-05-26 18:10:55.574 [http-nio-8080-exec-1] ERROR com.example.logtest.LogController - hello, /error
-2018-05-26 18:14:05.396 [INFO ] [com.example.logtest.LogController] - hello, /info
-2018-05-26 18:14:05.396 [WARN ] [com.example.logtest.LogController] - hello, /warn
-2018-05-26 18:14:05.396 [ERROR] [com.example.logtest.LogController] - hello, /error
-2018-05-26 18:14:37.626 [INFO] [com.example.logtest.LogController] - hello, /info
-2018-05-26 18:14:37.626 [WARN] [com.example.logtest.LogController] - hello, /warn
-2018-05-26 18:14:37.626 [ERROR] [com.example.logtest.LogController] - hello, /error
-18:17:21.227 [INFO ] [com.example.logtest.LogController] - hello, /info
-18:17:21.227 [WARN ] [com.example.logtest.LogController] - hello, /warn
-18:17:21.227 [ERROR] [com.example.logtest.LogController] - hello, /error
+18:51:40.373 [INFO ] [com.example.logtest.LogTestApplication] - Starting LogTestApplication on yangyao with PID 9652 (E:\intellijWorkSpace\log-test\target\classes started by lenovo in E:\intellijWorkSpace\log-test)
+18:51:40.373 [INFO ] [com.example.logtest.LogTestApplication] - No active profile set, falling back to default profiles: default
+18:51:42.576 [INFO ] [com.example.logtest.LogTestApplication] - Started LogTestApplication in 2.485 seconds (JVM running for 3.618)
+18:51:50.316 [INFO ] [com.example.logtest.LogController] - hello, /info
+18:51:50.317 [WARN ] [com.example.logtest.LogController] - hello, /warn
+18:51:50.317 [ERROR] [com.example.logtest.LogController] - hello, /error
